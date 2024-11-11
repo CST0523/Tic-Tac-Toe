@@ -13,3 +13,5 @@ This is a simple Python implementation of the classic Tic-Tac-Toe game where you
    - The first player to align three of their symbols in a row, column, or diagonal wins.
    - If the board is filled and no one has won, the game is a tie.
 5. **Play Again**: After each game, you will have the option to play again.
+
+![image](https://github.com/user-attachments/assets/6956bd23-dd98-4086-a797-3afcd3973fa1)
